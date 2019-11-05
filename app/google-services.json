@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "620181211488",
+    "firebase_url": "https://factokuploadimagestofirebasecl.firebaseio.com",
+    "project_id": "factokuploadimagestofirebasecl",
+    "storage_bucket": "factokuploadimagestofirebasecl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620181211488:android:9536e4306f82aefee2b605",
+        "android_client_info": {
+          "package_name": "com.example.factokuploadimagestofirebasecloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620181211488-83j0grsb9gihi5fss577os4k0f9dunfl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.factokuploadimagestofirebasecloud",
+            "certificate_hash": "c6e44b4d5f7e4f04fef9aa68e8f8533ca04ec142"
+          }
+        },
+        {
+          "client_id": "620181211488-o8pl06b5q3v8h4p85vucg63dtnumujct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyApuxF_U2Klf3KtGtVh0c1n1vLHe-2mI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620181211488-o8pl06b5q3v8h4p85vucg63dtnumujct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
